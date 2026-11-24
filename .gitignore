@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Datos y secretos
+*.csv
+*.xlsx
+*.xls
+data/
+.streamlit/secrets.toml
+
+# Entornos y editores
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+*.log
